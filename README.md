@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Coursera Capstone project for IBM Data Science Professional Certificate
+# Covid 19 Case Study in LA
+Capstone project by Ysabelle Lam
